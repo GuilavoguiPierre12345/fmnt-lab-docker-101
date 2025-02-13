@@ -54,4 +54,4 @@ Dans cette section, nous avons appris à partager nos images en les poussant ver
 
 Maintenant que nous avons compris cela, revenons à ce que nous avons remarqué à la fin de la dernière section. Pour rappel, nous avons remarqué que lorsque nous avons redémarré l'application, nous avons perdu tous les participants sur la liste. Ce n'est évidemment pas une expérience utilisateur optimale, alors apprenons comment conserver les données après plusieurs redémarrages !  
 
-#### Section suivante : [Persisting Our DB](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101.git/docs/persisting-our-db.md)
+#### Section suivante : [Persisting Our DB](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101/blob/main/docs/persisting-our-db.md)

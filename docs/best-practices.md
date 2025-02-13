@@ -116,4 +116,4 @@ Tout d'abord, vous devriez remarquer que la construction a été BEAUCOUP plus r
 # Recap 
 En comprenant un peu comment les images sont structurées, nous pouvons créer des images plus rapidement et livrer moins de modifications.
 
-#### Et ensuite ? [Fin](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101.git/docs/end.md)
+#### Et ensuite ? [Fin](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101/blob/main/docs/end.md)

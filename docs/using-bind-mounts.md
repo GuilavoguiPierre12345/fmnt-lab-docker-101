@@ -55,4 +55,4 @@ Votre projet a été sélectionné pour un développement futur !
 
 Afin de préparer la production, nous devons migrer notre base de données de SQLite vers quelque chose qui peut évoluer un peu mieux. Pour plus de simplicité, nous conserverons une base de données relationnelle et passerons notre application à MySQL. Mais comment devons-nous exécuter MySQL ? Comment permettre aux conteneurs de communiquer entre eux ? Nous en parlerons ensuite !
 
-#### Section suivante : [Multi-Container Apps](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101.git/docs/multi-container-apps.md)
+#### Section suivante : [Multi-Container Apps](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101/blob/main/docs/multi-container-apps.md)

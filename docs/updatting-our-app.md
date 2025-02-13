@@ -52,4 +52,4 @@ Tous les éléments existants de notre liste de tâches ont disparu ! Ce n'est 
 Un si petit changement impliquait de nombreuses étapes. Dans une prochaine section, nous verrons comment voir les mises à jour de code sans avoir besoin de reconstruire et de démarrer un nouveau conteneur à chaque fois que nous effectuons une modification.
 Avant de parler de la persistance, nous verrons rapidement comment partager ces images avec d'autres.
 
-#### Section suivante : [Sharing our App](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101.git/docs/sharing-our-app.md)
+#### Section suivante : [Sharing our App](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101/blob/main/docs/sharing-our-app.md)

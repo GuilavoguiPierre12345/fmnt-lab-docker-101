@@ -82,4 +82,4 @@ Le point de montage est l'emplacement réel sur le disque où les données sont 
 Cependant, nous avons vu plus tôt que la reconstruction des images pour chaque changement prend un certain temps. Il doit y avoir une meilleure façon d'effectuer des modifications, n'est-ce pas ? Avec les montages liés (que nous avons évoqués plus tôt), il existe une meilleure façon ! Voyons cela de plus près maintenant !
 
 
-#### Section suivante : [Using Bind Mounts](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101.git/docs/using-bind-mounts.md)
+#### Section suivante : [Using Bind Mounts](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101/blob/main/docs/using-bind-mounts.md)

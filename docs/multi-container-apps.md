@@ -111,4 +111,4 @@ Bien sûr, votre table sera différente car elle contient vos participants. Mais
 Mais il y a de fortes chances que vous commenciez à vous sentir un peu dépassé par tout ce que vous devez faire pour démarrer cette application. Nous devons créer un réseau, démarrer des conteneurs, spécifier toutes les variables d'environnement, exposer les ports, et plus encore ! C'est beaucoup de choses à retenir et cela rend certainement les choses plus difficiles à transmettre à quelqu'un d'autre.
 
 Dans la section suivante, nous parlerons de Docker Compose. Avec Docker Compose, nous pouvons partager nos piles d'applications de manière beaucoup plus simple et permettre aux autres de les lancer avec une seule (et simple) commande !
-#### Section suivante : [Using Docker Compose](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101.git/docs/using-docker-compose.md)
+#### Section suivante : [Using Docker Compose](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101/blob/main/docs/using-docker-compose.md)

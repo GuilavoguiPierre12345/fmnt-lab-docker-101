@@ -230,4 +230,4 @@ Dans cette section, nous avons découvert Docker Compose et comment il simplifie
 
 À ce stade, nous commençons à conclure le Lab. Cependant, nous souhaitons aborder quelques bonnes pratiques concernant la création d'images, car il existe un gros problème avec le Dockerfile que nous avons utilisé. Alors, jetons un œil !
 
-Section suivante [Image Building Best Practices](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101.git/docs/best-practices.md)
+Section suivante [Image Building Best Practices](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101/blob/main/docs/best-practices.md)

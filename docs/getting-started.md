@@ -61,4 +61,4 @@ Dans cette courte section, nous avons appris les bases de la création d'une ima
 
 Nous allons ensuite apporter une modification à notre application et apprendre à mettre à jour notre application en cours d'exécution avec une nouvelle image. En cours de route, nous apprendrons quelques autres commandes utiles.
 
-[Updatting Our App](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101.git/docs/updatting-our-app.md)
+[Updatting Our App](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101/blob/main/docs/updatting-our-app.md)

@@ -18,5 +18,5 @@ Avant de commencer, assurez-vous d'avoir :
 
 >Une connexion Internet pour télécharger les images Docker
 
-[Getting Started](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101.git/docs/getting-started.md)
+[Getting Started](https://github.com/GuilavoguiPierre12345/fmnt-lab-docker-101/blob/main/docs/getting-started.md)
 
